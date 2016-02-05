@@ -10,12 +10,9 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
+  background-color: #efc7cd;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
-}
-
-background-color{
-  color: #000;
 }
