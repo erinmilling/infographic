@@ -26,6 +26,7 @@ html {
   bottom: 680px;
   left: 220px;
 }
+
 .jungle {
   position: relative;
 }
@@ -36,4 +37,12 @@ html {
 
 .dog{
   height: 400px;
+}
+
+.fish{
+  bottom: 423px;
+  left: 410px;
+}
+
+.states{
 }
