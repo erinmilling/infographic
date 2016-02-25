@@ -18,13 +18,22 @@ html {
 }
 .brush {
   width: 130px;
+  left: 350px;
+  bottom: 280px;
 }
 .needle{
   width: 130px;
+  bottom: 680px;
+  left: 220px;
 }
-.jungle{
+.jungle {
   position: relative;
 }
+
 .needle, .fish, .brush, .scoop {
   position: absolute;
+}
+
+.dog{
+  height: 400px;
 }
