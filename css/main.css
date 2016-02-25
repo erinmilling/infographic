@@ -16,9 +16,15 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
-.brush{
-  width: 15%;
+.brush {
+  width: 130px;
 }
 .needle{
-  width: 10%;
+  width: 130px;
+}
+.jungle{
+  position: relative;
+}
+.needle, .fish, .brush, .scoop {
+  position: absolute;
 }
